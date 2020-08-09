@@ -1017,3 +1017,1546 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.07-14.26.22:519][989]MaterialEditorStats: Texture samplers: 5/16
 [2020.08.07-14.26.22:519][989]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
 [2020.08.07-14.26.22:519][989]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.07-14.27.24:799][738]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.27.24:835][739]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.08.07-14.27.24:835][739]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.08.07-14.27.24:835][739]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.08.07-14.27.27:031][976]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.08.07-14.27.27:239][998]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.08.07-14.27.27:959][ 61]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.27.28:602][132]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.08.07-14.27.29:072][186]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.08.07-14.27.29:378][221]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.08.07-14.27.29:668][254]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.27.29:683][254]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.27.30:089][300]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.08.07-14.27.30:401][336]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.08.07-14.27.30:803][383]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.08.07-14.27.31:418][455]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.08.07-14.27.31:928][513]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.08.07-14.27.33:922][667]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.27.33:957][668]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.08.07-14.27.35:268][801]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.08.07-14.27.36:380][907]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.08.07-14.27.36:641][936]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2020.08.07-14.27.37:474][  0]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.27.37:605][ 14]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.08.07-14.27.38:000][ 60]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.08.07-14.27.38:309][ 95]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.27.38:330][ 95]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.27.38:343][ 95]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.27.38:567][117]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.08.07-14.27.39:027][169]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.08.07-14.27.39:730][250]MaterialEditorStats: Base pass shader without light map: 154 instructions
+[2020.08.07-14.27.39:730][250]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.08.07-14.27.39:730][250]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.07-14.27.39:730][250]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.08.07-14.27.39:730][250]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.07-14.27.41:287][308]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.27.41:304][309]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.08.07-14.27.41:304][309]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.08.07-14.27.42:156][372]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.27.42:177][372]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.08.07-14.27.42:182][372]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.27.42:198][372]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.27.42:623][396]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.27.44:683][568]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.08.07-14.27.45:628][583]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.08.07-14.27.46:166][587]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.08.07-14.27.47:279][598]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.08.07-14.27.47:914][601]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.08.07-14.27.48:976][608]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.08.07-14.27.50:091][616]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.08.07-14.27.50:168][618]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.08.07-14.27.50:246][621]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.08.07-14.27.52:160][654]MaterialEditorStats: Base pass shader: 241 instructions
+[2020.08.07-14.27.52:160][654]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 315 instructions
+[2020.08.07-14.27.52:160][654]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.08.07-14.27.52:160][654]MaterialEditorStats: Texture samplers: 4/16
+[2020.08.07-14.27.52:160][654]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.08.07-14.27.52:160][654]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.07-14.28.48:440][994]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.28.48:484][995]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.08.07-14.28.48:484][995]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.08.07-14.28.48:484][995]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.08.07-14.28.49:956][139]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.08.07-14.28.50:602][193]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.28.50:669][193]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.28.50:708][193]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.28.53:723][450]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2020.08.07-14.28.55:298][597]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2020.08.07-14.28.55:392][608]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2020.08.07-14.28.56:420][698]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 35
+[2020.08.07-14.28.57:419][777]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2020.08.07-14.28.58:054][831]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.28.59:356][930]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.28.59:385][930]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.28.59:437][931]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2020.08.07-14.28.59:699][946]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.29.00:836][ 48]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 38
+[2020.08.07-14.29.00:885][ 54]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2020.08.07-14.29.00:885][ 54]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2020.08.07-14.29.01:254][ 96]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 35
+[2020.08.07-14.29.01:270][ 98]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2020.08.07-14.29.01:542][128]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2020.08.07-14.29.01:753][152]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2020.08.07-14.29.01:801][157]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2020.08.07-14.29.01:820][158]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.29.02:151][189]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2020.08.07-14.29.02:235][198]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2020.08.07-14.29.02:799][258]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2020.08.07-14.29.03:152][295]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2020.08.07-14.29.03:152][295]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2020.08.07-14.29.03:583][337]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2020.08.07-14.29.04:057][389]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2020.08.07-14.29.04:069][390]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2020.08.07-14.29.04:261][412]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2020.08.07-14.29.06:699][618]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.08.07-14.29.06:842][621]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2020.08.07-14.29.07:725][633]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2020.08.07-14.29.09:833][789]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2020.08.07-14.29.09:953][803]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2020.08.07-14.29.11:042][898]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2020.08.07-14.29.11:433][942]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2020.08.07-14.29.12:050][ 13]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2020.08.07-14.29.12:058][ 14]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2020.08.07-14.29.12:489][ 62]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.08.07-14.29.12:622][ 76]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2020.08.07-14.29.12:984][101]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.08.07-14.29.13:243][106]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2020.08.07-14.29.13:390][110]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2020.08.07-14.29.13:469][113]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.08.07-14.29.13:706][118]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2020.08.07-14.29.13:800][121]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.08.07-14.29.14:290][138]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2020.08.07-14.29.14:377][142]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.08.07-14.29.16:074][186]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.08.07-14.29.16:320][214]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.08.07-14.29.18:936][446]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.08.07-14.29.20:839][634]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.08.07-14.29.21:451][681]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.08.07-14.29.21:542][691]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.08.07-14.29.23:536][763]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.08.07-14.29.24:445][773]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.08.07-14.29.24:445][773]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.08.07-14.29.26:285][953]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.08.07-14.29.28:042][  0]MaterialEditorStats: Base pass shader: 241 instructions
+[2020.08.07-14.29.28:042][  0]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 315 instructions
+[2020.08.07-14.29.28:042][  0]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.08.07-14.29.28:042][  0]MaterialEditorStats: Texture samplers: 4/16
+[2020.08.07-14.29.28:042][  0]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(2)
+[2020.08.07-14.29.28:042][  0]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.07-14.29.36:155][362]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.29.36:182][362]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2020.08.07-14.29.36:182][362]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2020.08.07-14.29.36:182][362]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2020.08.07-14.29.36:189][362]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.08.07-14.29.36:202][362]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.08.07-14.29.37:486][476]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 43
+[2020.08.07-14.29.38:934][578]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 42
+[2020.08.07-14.29.39:535][621]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 41
+[2020.08.07-14.29.39:554][622]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2020.08.07-14.29.40:725][705]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 39
+[2020.08.07-14.29.42:280][837]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2020.08.07-14.29.42:333][843]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2020.08.07-14.29.44:390][ 17]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2020.08.07-14.29.44:415][ 18]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2020.08.07-14.29.45:389][ 72]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2020.08.07-14.29.45:389][ 72]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2020.08.07-14.29.46:137][ 77]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2020.08.07-14.29.46:313][ 79]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2020.08.07-14.29.47:399][ 85]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2020.08.07-14.29.47:399][ 85]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.08.07-14.29.48:191][ 88]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2020.08.07-14.29.48:191][ 88]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2020.08.07-14.29.48:436][ 91]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2020.08.07-14.29.49:588][ 95]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2020.08.07-14.29.51:311][231]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.08.07-14.29.51:312][231]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2020.08.07-14.29.52:368][316]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2020.08.07-14.29.52:601][337]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2020.08.07-14.29.55:328][584]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.08.07-14.29.55:386][588]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.29.55:414][588]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.08.07-14.29.55:431][588]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.29.56:582][686]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 46
+[2020.08.07-14.29.58:229][834]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 45
+[2020.08.07-14.29.58:845][848]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2020.08.07-14.29.59:648][851]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 43
+[2020.08.07-14.30.00:330][854]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 42
+[2020.08.07-14.30.00:428][855]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 41
+[2020.08.07-14.30.01:050][859]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2020.08.07-14.30.01:469][887]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2020.08.07-14.30.01:890][932]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2020.08.07-14.30.01:890][932]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2020.08.07-14.30.02:401][983]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2020.08.07-14.30.02:401][983]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2020.08.07-14.30.02:739][ 20]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2020.08.07-14.30.03:013][ 48]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2020.08.07-14.30.03:151][ 63]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2020.08.07-14.30.03:178][ 65]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.30.03:207][ 65]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.08.07-14.30.03:313][ 75]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 42
+[2020.08.07-14.30.03:822][126]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 41
+[2020.08.07-14.30.04:039][149]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 40
+[2020.08.07-14.30.04:152][161]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2020.08.07-14.30.04:770][214]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 38
+[2020.08.07-14.30.04:937][224]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2020.08.07-14.30.05:674][228]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2020.08.07-14.30.05:784][229]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2020.08.07-14.30.07:586][234]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2020.08.07-14.30.07:702][239]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2020.08.07-14.30.08:312][246]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2020.08.07-14.30.08:400][247]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2020.08.07-14.30.09:114][253]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2020.08.07-14.30.09:850][258]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2020.08.07-14.30.09:996][261]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2020.08.07-14.30.10:704][263]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2020.08.07-14.30.11:947][269]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2020.08.07-14.30.12:050][273]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2020.08.07-14.30.12:118][275]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2020.08.07-14.30.12:847][277]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2020.08.07-14.30.14:657][372]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2020.08.07-14.30.14:712][378]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2020.08.07-14.30.15:465][444]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_52.MaterialExpressionTextureCoordinate_0"')'
+[2020.08.07-14.30.15:465][444]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant2Vector'"MaterialGraphNode_54.MaterialExpressionConstant2Vector_0"')'
+[2020.08.07-14.30.15:478][444]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.30.15:513][444]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_0, compiling. 
+[2020.08.07-14.30.15:525][444]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_1, compiling. 
+[2020.08.07-14.30.16:659][534]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 50
+[2020.08.07-14.30.17:938][650]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 49
+[2020.08.07-14.30.18:499][690]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_52.MaterialExpressionTextureCoordinate_0"')'
+[2020.08.07-14.30.18:499][690]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant2Vector'"MaterialGraphNode_54.MaterialExpressionConstant2Vector_0"')'
+[2020.08.07-14.30.18:511][690]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.30.18:538][690]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_1, compiling. 
+[2020.08.07-14.30.18:552][690]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_2, compiling. 
+[2020.08.07-14.30.20:108][824]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 52
+[2020.08.07-14.30.20:289][845]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 51
+[2020.08.07-14.30.22:416][ 33]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2020.08.07-14.30.22:596][ 54]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 49
+[2020.08.07-14.30.23:656][ 84]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 48
+[2020.08.07-14.30.25:234][ 96]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 47
+[2020.08.07-14.30.25:234][ 96]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 46
+[2020.08.07-14.30.25:363][100]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 45
+[2020.08.07-14.30.26:246][105]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2020.08.07-14.30.27:436][110]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 43
+[2020.08.07-14.30.27:922][112]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 42
+[2020.08.07-14.30.28:924][114]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 41
+[2020.08.07-14.30.28:924][114]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 40
+[2020.08.07-14.30.29:100][117]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2020.08.07-14.30.29:949][123]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 38
+[2020.08.07-14.30.29:949][123]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2020.08.07-14.30.30:729][130]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2020.08.07-14.30.30:729][130]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 35
+[2020.08.07-14.30.30:889][132]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2020.08.07-14.30.31:970][136]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2020.08.07-14.30.32:949][141]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2020.08.07-14.30.33:011][142]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2020.08.07-14.30.33:858][150]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2020.08.07-14.30.33:858][150]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.08.07-14.30.34:572][155]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2020.08.07-14.30.34:572][155]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2020.08.07-14.30.35:160][160]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2020.08.07-14.30.36:011][165]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2020.08.07-14.30.36:966][226]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2020.08.07-14.30.37:894][302]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2020.08.07-14.30.38:294][336]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.30.38:331][336]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.08.07-14.30.38:354][336]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_1, compiling. 
+[2020.08.07-14.30.38:376][336]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_2, compiling. 
+[2020.08.07-14.30.39:239][400]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.30.39:269][400]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.08.07-14.30.39:280][400]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.07-14.30.40:969][515]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 54
+[2020.08.07-14.30.40:969][515]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 53
+[2020.08.07-14.30.41:917][539]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 52
+[2020.08.07-14.30.41:969][540]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 51
+[2020.08.07-14.30.42:119][547]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 50
+[2020.08.07-14.30.42:799][551]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 49
+[2020.08.07-14.30.42:799][551]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 48
+[2020.08.07-14.30.43:882][559]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 47
+[2020.08.07-14.30.45:217][682]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 46
+[2020.08.07-14.30.45:924][742]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 45
+[2020.08.07-14.30.47:270][858]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.30.47:314][858]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.08.07-14.30.47:325][858]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.07-14.30.47:336][858]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.08.07-14.30.47:380][859]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 54
+[2020.08.07-14.30.48:382][953]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 53
+[2020.08.07-14.30.50:053][112]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 52
+[2020.08.07-14.30.50:193][128]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 51
+[2020.08.07-14.30.50:470][146]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_52.MaterialExpressionTextureCoordinate_2"')'
+[2020.08.07-14.30.50:470][146]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant2Vector'"MaterialGraphNode_54.MaterialExpressionConstant2Vector_2"')'
+[2020.08.07-14.30.50:482][146]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.30.50:522][146]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_2, compiling. 
+[2020.08.07-14.30.50:533][146]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.08.07-14.30.50:545][146]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_3, compiling. 
+[2020.08.07-14.30.52:543][314]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 58
+[2020.08.07-14.30.53:651][417]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 57
+[2020.08.07-14.30.53:717][424]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 56
+[2020.08.07-14.30.53:918][440]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.30.53:958][440]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.08.07-14.30.53:989][440]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_3, compiling. 
+[2020.08.07-14.30.55:800][598]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.30.55:829][598]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_2, compiling. 
+[2020.08.07-14.30.55:851][598]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.07-14.30.56:475][617]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 55
+[2020.08.07-14.30.56:626][623]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 54
+[2020.08.07-14.30.57:290][627]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 53
+[2020.08.07-14.30.57:565][630]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 52
+[2020.08.07-14.30.59:510][780]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 51
+[2020.08.07-14.30.59:681][800]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2020.08.07-14.31.01:764][985]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 49
+[2020.08.07-14.31.01:842][992]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.31.01:874][992]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_3, compiling. 
+[2020.08.07-14.31.02:639][ 56]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 50
+[2020.08.07-14.31.04:171][201]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 49
+[2020.08.07-14.31.05:000][276]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 48
+[2020.08.07-14.31.05:678][327]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 47
+[2020.08.07-14.31.06:173][372]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.31.06:207][372]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.07-14.31.07:311][475]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 46
+[2020.08.07-14.31.07:426][488]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 45
+[2020.08.07-14.31.07:511][497]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 44
+[2020.08.07-14.31.08:080][562]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 43
+[2020.08.07-14.31.08:091][563]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 42
+[2020.08.07-14.31.08:174][571]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.31.08:203][571]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.08.07-14.31.08:291][578]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 46
+[2020.08.07-14.31.08:647][615]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 45
+[2020.08.07-14.31.08:962][642]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2020.08.07-14.31.08:976][643]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 43
+[2020.08.07-14.31.09:402][666]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 42
+[2020.08.07-14.31.09:500][669]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 41
+[2020.08.07-14.31.09:570][672]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2020.08.07-14.31.09:669][676]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2020.08.07-14.31.09:859][686]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2020.08.07-14.31.10:018][692]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2020.08.07-14.31.10:018][692]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2020.08.07-14.31.10:109][695]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 35
+[2020.08.07-14.31.10:303][701]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2020.08.07-14.31.10:334][702]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2020.08.07-14.31.10:580][711]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2020.08.07-14.31.10:616][712]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2020.08.07-14.31.10:681][714]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2020.08.07-14.31.10:904][722]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.08.07-14.31.11:059][727]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2020.08.07-14.31.11:059][727]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2020.08.07-14.31.13:080][789]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2020.08.07-14.31.13:132][795]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2020.08.07-14.31.14:765][942]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2020.08.07-14.31.14:826][949]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2020.08.07-14.31.16:295][ 83]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.31.16:529][102]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 42
+[2020.08.07-14.31.18:594][284]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 41
+[2020.08.07-14.31.18:737][299]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.31.18:764][299]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.31.19:460][354]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2020.08.07-14.31.19:731][384]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2020.08.07-14.31.20:108][423]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2020.08.07-14.31.20:275][441]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2020.08.07-14.31.20:678][485]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2020.08.07-14.31.20:698][487]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2020.08.07-14.31.21:174][540]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2020.08.07-14.31.21:434][567]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.31.21:475][567]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2020.08.07-14.31.21:475][567]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2020.08.07-14.31.21:782][602]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2020.08.07-14.31.21:798][604]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2020.08.07-14.31.22:002][625]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2020.08.07-14.31.22:189][645]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2020.08.07-14.31.22:413][671]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2020.08.07-14.31.22:422][672]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2020.08.07-14.31.22:568][688]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.31.22:691][699]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 38
+[2020.08.07-14.31.23:094][741]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2020.08.07-14.31.23:224][756]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2020.08.07-14.31.23:320][767]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2020.08.07-14.31.25:111][824]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2020.08.07-14.31.25:153][826]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2020.08.07-14.31.25:770][829]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2020.08.07-14.31.25:770][829]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2020.08.07-14.31.26:910][835]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2020.08.07-14.31.27:003][839]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.08.07-14.31.27:165][845]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2020.08.07-14.31.27:832][846]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2020.08.07-14.31.29:159][851]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2020.08.07-14.31.29:272][856]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2020.08.07-14.31.29:361][858]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2020.08.07-14.31.30:166][862]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2020.08.07-14.31.31:213][867]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2020.08.07-14.31.31:410][869]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2020.08.07-14.31.32:100][873]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2020.08.07-14.31.32:234][875]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2020.08.07-14.31.33:955][882]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.08.07-14.31.33:989][883]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2020.08.07-14.31.34:120][887]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.08.07-14.31.34:828][892]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.08.07-14.31.36:130][898]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2020.08.07-14.31.36:148][899]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.08.07-14.31.37:309][914]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.08.07-14.31.38:732][ 36]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.31.38:915][ 50]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2020.08.07-14.31.41:612][283]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2020.08.07-14.31.41:713][293]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2020.08.07-14.31.42:235][341]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.31.43:164][411]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.31.45:567][612]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 38
+[2020.08.07-14.31.45:584][613]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2020.08.07-14.31.46:897][731]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2020.08.07-14.31.47:097][748]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 35
+[2020.08.07-14.31.47:121][749]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.31.47:148][749]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.31.48:776][874]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.31.49:890][973]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2020.08.07-14.31.51:264][ 60]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2020.08.07-14.31.51:433][ 63]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2020.08.07-14.31.51:448][ 64]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2020.08.07-14.31.52:361][ 78]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2020.08.07-14.31.52:443][ 79]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2020.08.07-14.31.52:530][ 82]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2020.08.07-14.31.52:530][ 82]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2020.08.07-14.31.54:123][ 88]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2020.08.07-14.31.54:244][ 92]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2020.08.07-14.31.54:959][ 96]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2020.08.07-14.31.55:164][ 98]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2020.08.07-14.31.56:680][103]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2020.08.07-14.31.56:796][105]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2020.08.07-14.31.57:364][113]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.08.07-14.31.57:541][115]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2020.08.07-14.31.58:726][120]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2020.08.07-14.31.58:936][124]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2020.08.07-14.31.59:562][127]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.08.07-14.32.00:553][130]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2020.08.07-14.32.01:158][133]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.08.07-14.32.02:329][141]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2020.08.07-14.32.02:329][141]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2020.08.07-14.32.02:396][144]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.08.07-14.32.02:975][152]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2020.08.07-14.32.03:708][156]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.08.07-14.32.04:765][163]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2020.08.07-14.32.05:347][167]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.08.07-14.32.06:094][173]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2020.08.07-14.32.06:760][179]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.08.07-14.32.07:681][185]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.08.07-14.32.08:870][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.08.07-14.32.09:990][294]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.08.07-14.32.10:882][365]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.32.12:780][520]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 38
+[2020.08.07-14.32.13:862][614]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.32.14:527][659]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2020.08.07-14.32.16:104][801]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2020.08.07-14.32.17:662][949]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2020.08.07-14.32.17:681][950]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2020.08.07-14.32.18:364][  8]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.32.18:482][ 17]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 38
+[2020.08.07-14.32.19:960][ 89]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2020.08.07-14.32.19:988][ 90]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2020.08.07-14.32.20:059][ 92]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2020.08.07-14.32.20:769][102]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2020.08.07-14.32.20:836][103]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2020.08.07-14.32.21:029][105]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2020.08.07-14.32.21:029][105]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2020.08.07-14.32.22:329][112]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2020.08.07-14.32.22:398][114]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2020.08.07-14.32.22:561][120]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2020.08.07-14.32.22:592][121]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2020.08.07-14.32.23:804][129]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2020.08.07-14.32.25:138][237]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2020.08.07-14.32.26:732][383]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2020.08.07-14.32.26:972][410]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2020.08.07-14.32.29:246][603]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2020.08.07-14.32.29:372][617]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2020.08.07-14.32.30:683][736]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.08.07-14.32.30:783][747]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2020.08.07-14.32.32:329][888]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2020.08.07-14.32.32:510][895]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.08.07-14.32.32:927][901]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2020.08.07-14.32.34:711][ 22]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.08.07-14.32.34:711][ 22]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2020.08.07-14.32.35:304][ 76]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.32.35:305][ 76]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.32.35:305][ 76]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local16 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.32.35:307][ 76]MaterialEditorStats: Error: [SM5] (Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local16 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.32.46:465][448]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.32.46:466][448]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.32.46:466][448]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local16 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.32.50:203][852]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.32.50:204][852]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.32.50:204][852]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local16 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.32.50:210][852]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.32.50:211][852]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.32.50:211][852]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local16 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.32.52:094][ 41]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.32.52:095][ 41]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.32.52:095][ 41]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local16 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.32.53:253][153]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.32.53:254][153]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.32.53:254][153]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local16 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.32.55:422][378]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.32.55:423][378]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.32.55:423][378]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local17 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.32.55:425][378]MaterialEditorStats: Error: [SM5] (Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local17 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.33.46:223][134]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.33.46:224][134]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.33.46:224][134]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local17 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.33.48:263][358]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.33.48:264][358]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.33.48:264][358]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local17 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.33.54:761][898]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.33.54:761][898]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.33.54:762][898]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local17 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.33.56:449][ 81]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.33.56:449][ 81]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.33.56:449][ 81]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local17 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.33.58:041][252]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.33.58:042][252]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.33.58:042][252]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local17 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.34.01:340][505]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.34.01:340][505]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.34.01:340][505]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local17 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.34.03:466][740]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.34.03:466][740]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.34.03:466][740]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local17 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.34.31:578][167]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.34.31:578][167]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.34.31:578][167]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local17 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.34.35:346][396]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.34.35:347][396]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.34.35:347][396]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local17 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.34.39:648][742]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.34.39:649][742]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.34.39:649][742]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local17 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.34.42:237][ 37]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.34.42:238][ 37]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.34.42:238][ 37]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local17 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.34.45:910][336]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.34.45:911][336]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.34.45:911][336]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local17 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.34.47:912][556]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.34.47:913][556]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.34.47:913][556]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local17 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.34.47:920][556]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.34.47:920][556]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.34.47:920][556]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local17 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.34.49:234][702]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.34.49:235][702]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.34.49:235][702]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local17 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.34.51:221][931]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.34.51:221][931]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.34.51:222][931]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local17 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.34.55:512][421]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.34.55:513][421]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.34.55:513][421]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local17 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.34.55:513][421]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local36 = (Local34.rgb + Local35.rgb);
+: float3 -> float
+[2020.08.07-14.34.55:516][421]MaterialEditorStats: Error: [SM5] (Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local17 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.34.55:516][421]MaterialEditorStats: Error: [SM5] (Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local36 = (Local34.rgb + Local35.rgb);
+: float3 -> float
+[2020.08.07-14.35.16:308][658]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.35.16:309][658]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.35.16:309][658]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local17 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.35.16:309][658]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local36 = (Local34.rgb + Local35.rgb);
+: float3 -> float
+[2020.08.07-14.35.16:316][658]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.35.16:317][658]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.35.16:317][658]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local17 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.35.16:317][658]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local36 = (Local34.rgb + Local35.rgb);
+: float3 -> float
+[2020.08.07-14.35.19:462][774]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.35.19:463][774]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.35.19:463][774]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local17 = (Local3.rgb + Local4.rgb);
+: float3 -> float
+[2020.08.07-14.35.19:463][774]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local36 = (Local34.rgb + Local35.rgb);
+: float3 -> float
+[2020.08.07-14.35.53:485][866]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.35.53:486][866]LogMaterial: Warning: /Engine/Transient.Lava (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.07-14.35.53:486][866]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local17 = (Local3.rgb + Local4.r);
+: float3 -> float
+[2020.08.07-14.35.53:486][866]LogMaterial: Display: 	(Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local36 = (Local34.rgb + Local35.r);
+: float3 -> float
+[2020.08.07-14.35.53:497][866]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.08.07-14.35.53:509][866]MaterialEditorStats: Error: [SM5] (Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local17 = (Local3.rgb + Local4.r);
+: float3 -> float
+[2020.08.07-14.35.53:509][866]MaterialEditorStats: Error: [SM5] (Node LinearInterpolate) Coercion failed: 	MaterialFloat3 Local36 = (Local34.rgb + Local35.r);
+: float3 -> float
+[2020.08.07-14.35.53:520][867]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.08.07-14.35.53:520][867]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.08.07-14.35.53:520][867]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.08.07-14.35.55:213][ 10]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.35.55:247][ 10]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.07-14.35.56:971][176]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 43
+[2020.08.07-14.35.57:078][188]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 42
+[2020.08.07-14.35.58:189][295]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 41
+[2020.08.07-14.35.58:317][310]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 40
+[2020.08.07-14.35.58:331][311]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 39
+[2020.08.07-14.35.59:092][394]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2020.08.07-14.35.59:191][405]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2020.08.07-14.35.59:432][432]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2020.08.07-14.35.59:675][455]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2020.08.07-14.35.59:821][468]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2020.08.07-14.36.00:250][514]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2020.08.07-14.36.00:477][539]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2020.08.07-14.36.00:772][558]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2020.08.07-14.36.00:844][560]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2020.08.07-14.36.01:060][567]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2020.08.07-14.36.01:100][569]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2020.08.07-14.36.01:179][571]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2020.08.07-14.36.01:400][579]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2020.08.07-14.36.01:537][583]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2020.08.07-14.36.01:598][585]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.08.07-14.36.01:632][587]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2020.08.07-14.36.01:865][596]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2020.08.07-14.36.01:899][598]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2020.08.07-14.36.02:528][602]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2020.08.07-14.36.02:733][606]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2020.08.07-14.36.04:257][681]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2020.08.07-14.36.04:472][706]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2020.08.07-14.36.05:260][764]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2020.08.07-14.36.05:459][771]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.08.07-14.36.05:565][775]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2020.08.07-14.36.05:792][783]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.08.07-14.36.05:939][789]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.08.07-14.36.06:674][828]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.08.07-14.36.06:682][829]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2020.08.07-14.36.07:240][890]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.08.07-14.36.07:439][913]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.08.07-14.36.07:935][968]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.08.07-14.36.10:294][176]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.08.07-14.36.10:302][177]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2020.08.07-14.36.11:450][277]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.08.07-14.36.12:756][402]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.08.07-14.36.13:809][502]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.08.07-14.36.13:995][516]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.08.07-14.36.14:257][538]MaterialEditorStats: Base pass shader: 249 instructions
+[2020.08.07-14.36.14:257][538]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 323 instructions
+[2020.08.07-14.36.14:257][538]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.08.07-14.36.14:257][538]MaterialEditorStats: Texture samplers: 5/16
+[2020.08.07-14.36.14:257][538]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2020.08.07-14.36.14:257][538]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.07-14.38.43:231][932]LogMaterialEditor: Saving and Compiling material Lava
+[2020.08.07-14.38.43:821][932]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.38.43:928][932]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2020.08.07-14.38.43:928][932]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2020.08.07-14.38.43:928][932]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2020.08.07-14.38.43:945][932]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.38.44:021][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.08.07-14.38.44:039][932]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.07-14.38.51:199][932]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 93
+[2020.08.07-14.38.51:199][932]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 92
+[2020.08.07-14.38.51:199][932]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 91
+[2020.08.07-14.38.51:199][932]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 90
+[2020.08.07-14.38.51:199][932]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 89
+[2020.08.07-14.38.51:199][932]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 88
+[2020.08.07-14.38.51:199][932]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 87
+[2020.08.07-14.38.51:199][932]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 86
+[2020.08.07-14.38.51:199][932]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 85
+[2020.08.07-14.38.51:199][932]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 84
+[2020.08.07-14.38.51:199][932]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 83
+[2020.08.07-14.38.51:199][932]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 82
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 81
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 80
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 79
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 78
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 77
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 76
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 75
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 74
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 73
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 72
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 71
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 70
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 69
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 68
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 67
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 66
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 65
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 64
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 63
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 62
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 61
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 59
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 58
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 57
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 56
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 55
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 54
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 44
+[2020.08.07-14.38.51:200][932]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2020.08.07-14.38.51:203][932]TextureStreamingBuild: Display: Compiling optional shaders took 7.180 seconds.
+[2020.08.07-14.38.54:350][932]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.08.07-14.38.54:350][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.08.07-14.38.54:358][932]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.08.07-14.38.54:391][932]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.08.07-14.38.58:030][932]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.08.07-14.38.58:030][932]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.08.07-14.38.58:030][932]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.08.07-14.38.58:057][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/4_Lava/Lava" FILE="C:/Users/박정훈/Documents/Unreal-Material/MaterialProject/Content/4_Lava/Lava.uasset" SILENT=true
+[2020.08.07-14.38.58:084][932]LogSavePackage: Moving 'C:/Users/박정훈/Documents/Unreal-Material/MaterialProject/Saved/Lava6D0EAD00494D87359A6FE298E9E1D416.tmp' to 'C:/Users/박정훈/Documents/Unreal-Material/MaterialProject/Content/4_Lava/Lava.uasset'
+[2020.08.07-14.38.58:119][932]AssetCheck: New page: Asset Save: Lava
+[2020.08.07-14.38.58:119][932]LogContentValidation: Display: Material /Game/4_Lava/Lava.Lava 유효성 검사
+[2020.08.07-14.38.58:124][932]MaterialEditorStats: Base pass shader: 249 instructions
+[2020.08.07-14.38.58:124][932]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 323 instructions
+[2020.08.07-14.38.58:124][932]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.08.07-14.38.58:124][932]MaterialEditorStats: Texture samplers: 6/16
+[2020.08.07-14.38.58:124][932]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2020.08.07-14.38.58:124][932]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.07-14.40.44:870][607]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.40.44:896][607]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2020.08.07-14.40.44:896][607]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2020.08.07-14.40.44:896][607]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2020.08.07-14.40.44:902][607]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.08.07-14.40.44:926][607]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_1, compiling. 
+[2020.08.07-14.40.44:942][607]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.40.45:872][707]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 46
+[2020.08.07-14.40.46:132][734]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 45
+[2020.08.07-14.40.46:345][758]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 44
+[2020.08.07-14.40.46:419][765]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.40.46:820][808]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 43
+[2020.08.07-14.40.46:982][826]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 42
+[2020.08.07-14.40.46:983][826]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 41
+[2020.08.07-14.40.47:579][892]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 40
+[2020.08.07-14.40.47:848][923]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 39
+[2020.08.07-14.40.47:864][925]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2020.08.07-14.40.48:248][969]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2020.08.07-14.40.48:290][974]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2020.08.07-14.40.48:413][988]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 35
+[2020.08.07-14.40.48:880][ 41]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2020.08.07-14.40.48:995][ 54]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2020.08.07-14.40.49:203][ 77]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2020.08.07-14.40.49:268][ 84]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2020.08.07-14.40.49:516][112]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2020.08.07-14.40.49:796][144]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.08.07-14.40.49:989][166]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2020.08.07-14.40.50:243][195]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2020.08.07-14.40.50:529][227]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2020.08.07-14.40.50:866][264]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2020.08.07-14.40.50:933][271]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2020.08.07-14.40.51:454][329]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2020.08.07-14.40.51:530][338]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2020.08.07-14.40.51:773][366]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2020.08.07-14.40.51:928][384]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.08.07-14.40.52:217][417]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2020.08.07-14.40.52:383][436]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.08.07-14.40.52:656][467]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2020.08.07-14.40.52:838][488]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2020.08.07-14.40.53:088][516]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.08.07-14.40.53:422][554]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2020.08.07-14.40.53:676][581]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.08.07-14.40.54:535][680]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2020.08.07-14.40.54:769][707]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.08.07-14.40.54:794][710]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2020.08.07-14.40.55:572][796]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.08.07-14.40.55:867][830]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.08.07-14.40.56:521][902]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.08.07-14.40.56:815][935]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2020.08.07-14.40.57:390][999]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2020.08.07-14.40.57:521][ 14]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.08.07-14.40.57:930][ 61]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.08.07-14.40.58:740][153]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.08.07-14.40.58:830][163]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.08.07-14.40.59:685][258]MaterialEditorStats: Base pass shader: 249 instructions
+[2020.08.07-14.40.59:685][258]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 323 instructions
+[2020.08.07-14.40.59:685][258]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.08.07-14.40.59:685][258]MaterialEditorStats: Texture samplers: 5/16
+[2020.08.07-14.40.59:685][258]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2020.08.07-14.40.59:685][258]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.07-14.42.23:735][267]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.42.23:760][267]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.42.23:780][267]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2020.08.07-14.42.23:780][267]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2020.08.07-14.42.23:780][267]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2020.08.07-14.42.24:436][340]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2020.08.07-14.42.24:850][382]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2020.08.07-14.42.25:192][420]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2020.08.07-14.42.25:192][420]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2020.08.07-14.42.25:328][433]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.42.25:513][452]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 38
+[2020.08.07-14.42.25:686][472]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2020.08.07-14.42.25:756][480]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2020.08.07-14.42.25:869][493]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 35
+[2020.08.07-14.42.26:350][548]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2020.08.07-14.42.26:496][565]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2020.08.07-14.42.26:530][569]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2020.08.07-14.42.26:580][575]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2020.08.07-14.42.26:852][606]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2020.08.07-14.42.27:035][627]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.08.07-14.42.27:405][669]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2020.08.07-14.42.27:532][684]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2020.08.07-14.42.27:836][719]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2020.08.07-14.42.28:044][743]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2020.08.07-14.42.28:280][770]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2020.08.07-14.42.28:520][798]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2020.08.07-14.42.28:846][835]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2020.08.07-14.42.28:961][848]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2020.08.07-14.42.29:268][883]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.08.07-14.42.29:274][884]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2020.08.07-14.42.29:533][912]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.08.07-14.42.29:876][951]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2020.08.07-14.42.30:062][972]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2020.08.07-14.42.30:182][986]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.08.07-14.42.30:615][ 36]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2020.08.07-14.42.30:789][ 56]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.08.07-14.42.31:745][162]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2020.08.07-14.42.32:079][197]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.08.07-14.42.32:697][268]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.08.07-14.42.32:760][275]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.08.07-14.42.33:134][317]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.08.07-14.42.34:030][420]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.08.07-14.42.34:319][453]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.08.07-14.42.34:407][463]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.08.07-14.42.35:102][543]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.08.07-14.42.35:550][594]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.08.07-14.42.35:835][627]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.08.07-14.42.36:485][698]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.08.07-14.42.37:091][764]MaterialEditorStats: Base pass shader: 249 instructions
+[2020.08.07-14.42.37:091][764]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 323 instructions
+[2020.08.07-14.42.37:091][764]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.08.07-14.42.37:091][764]MaterialEditorStats: Texture samplers: 5/16
+[2020.08.07-14.42.37:091][764]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2020.08.07-14.42.37:091][764]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.07-14.43.06:350][260]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.43.06:381][260]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2020.08.07-14.43.06:381][260]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2020.08.07-14.43.06:381][260]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2020.08.07-14.43.06:381][260]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.08.07-14.43.07:172][345]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2020.08.07-14.43.07:373][367]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2020.08.07-14.43.07:598][393]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2020.08.07-14.43.07:757][411]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2020.08.07-14.43.07:944][433]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2020.08.07-14.43.07:986][438]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2020.08.07-14.43.08:065][446]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.43.08:097][446]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.07-14.43.08:331][472]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 46
+[2020.08.07-14.43.08:418][482]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 45
+[2020.08.07-14.43.09:040][543]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2020.08.07-14.43.09:204][561]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 43
+[2020.08.07-14.43.09:519][597]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 42
+[2020.08.07-14.43.09:948][644]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 41
+[2020.08.07-14.43.10:054][655]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2020.08.07-14.43.10:087][659]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2020.08.07-14.43.10:731][731]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2020.08.07-14.43.10:783][737]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2020.08.07-14.43.11:149][777]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2020.08.07-14.43.11:207][783]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 35
+[2020.08.07-14.43.11:558][819]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2020.08.07-14.43.12:038][874]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2020.08.07-14.43.12:117][883]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2020.08.07-14.43.12:305][905]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2020.08.07-14.43.12:422][917]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLinearInterpolate_2, compiling. 
+[2020.08.07-14.43.12:788][959]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2020.08.07-14.43.12:797][960]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2020.08.07-14.43.13:258][ 10]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2020.08.07-14.43.13:647][ 54]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2020.08.07-14.43.13:890][ 82]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2020.08.07-14.43.14:041][ 99]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.08.07-14.43.14:254][123]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2020.08.07-14.43.14:422][142]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2020.08.07-14.43.14:714][175]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2020.08.07-14.43.15:001][207]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2020.08.07-14.43.15:218][232]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2020.08.07-14.43.15:404][253]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2020.08.07-14.43.15:745][292]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2020.08.07-14.43.16:189][342]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2020.08.07-14.43.17:463][477]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.08.07-14.43.17:463][477]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.43.17:667][497]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 45
+[2020.08.07-14.43.18:142][550]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2020.08.07-14.43.18:512][591]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 43
+[2020.08.07-14.43.18:618][603]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 42
+[2020.08.07-14.43.18:776][620]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.43.18:809][620]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 41
+[2020.08.07-14.43.18:809][620]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLinearInterpolate_2, compiling. 
+[2020.08.07-14.43.18:826][620]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.43.19:513][693]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 42
+[2020.08.07-14.43.19:693][713]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 41
+[2020.08.07-14.43.20:213][772]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 40
+[2020.08.07-14.43.20:571][813]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 39
+[2020.08.07-14.43.20:626][818]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.43.20:740][829]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2020.08.07-14.43.20:898][847]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2020.08.07-14.43.21:076][868]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2020.08.07-14.43.21:076][868]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 35
+[2020.08.07-14.43.21:779][948]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2020.08.07-14.43.21:838][955]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2020.08.07-14.43.21:943][967]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2020.08.07-14.43.22:049][979]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2020.08.07-14.43.22:350][ 14]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2020.08.07-14.43.22:559][ 38]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.08.07-14.43.22:766][ 62]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2020.08.07-14.43.22:906][ 78]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2020.08.07-14.43.23:159][107]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2020.08.07-14.43.23:254][118]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2020.08.07-14.43.23:521][149]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2020.08.07-14.43.23:776][178]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2020.08.07-14.43.24:015][205]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2020.08.07-14.43.24:130][218]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2020.08.07-14.43.24:353][243]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.08.07-14.43.24:599][271]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2020.08.07-14.43.24:773][291]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.08.07-14.43.25:264][345]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2020.08.07-14.43.25:307][350]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.08.07-14.43.25:509][372]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.08.07-14.43.25:833][409]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2020.08.07-14.43.26:059][435]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.08.07-14.43.26:905][531]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.08.07-14.43.27:197][564]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.08.07-14.43.27:574][607]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2020.08.07-14.43.28:131][664]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.08.07-14.43.28:431][697]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.08.07-14.43.29:430][809]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.08.07-14.43.29:858][856]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2020.08.07-14.43.30:113][883]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.08.07-14.43.30:563][933]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.08.07-14.43.30:980][980]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.08.07-14.43.31:185][  2]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.43.31:212][  2]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.43.31:578][ 40]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2020.08.07-14.43.31:818][ 67]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2020.08.07-14.43.32:223][111]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2020.08.07-14.43.32:267][116]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2020.08.07-14.43.32:513][142]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2020.08.07-14.43.32:728][165]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.43.32:772][168]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 38
+[2020.08.07-14.43.32:884][181]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2020.08.07-14.43.33:072][203]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2020.08.07-14.43.33:230][221]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 35
+[2020.08.07-14.43.33:637][268]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2020.08.07-14.43.33:750][281]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2020.08.07-14.43.33:836][291]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2020.08.07-14.43.33:870][295]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2020.08.07-14.43.34:182][331]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2020.08.07-14.43.34:257][340]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2020.08.07-14.43.34:564][376]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2020.08.07-14.43.34:565][376]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2020.08.07-14.43.34:758][398]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2020.08.07-14.43.34:939][419]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2020.08.07-14.43.35:283][459]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2020.08.07-14.43.35:307][462]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2020.08.07-14.43.35:664][503]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2020.08.07-14.43.35:701][507]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2020.08.07-14.43.35:776][516]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2020.08.07-14.43.35:984][540]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2020.08.07-14.43.36:294][576]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.08.07-14.43.36:513][600]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2020.08.07-14.43.36:695][621]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.08.07-14.43.37:219][681]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.08.07-14.43.37:402][702]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2020.08.07-14.43.37:609][725]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.08.07-14.43.38:471][824]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.08.07-14.43.39:419][928]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2020.08.07-14.43.39:428][929]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2020.08.07-14.43.39:823][974]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.08.07-14.43.39:959][990]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.08.07-14.43.40:610][ 66]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.08.07-14.43.40:648][ 70]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.08.07-14.43.41:506][167]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.08.07-14.43.41:617][179]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.08.07-14.43.42:120][233]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.08.07-14.43.42:922][320]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.08.07-14.43.43:290][361]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.08.07-14.43.44:036][443]MaterialEditorStats: Base pass shader: 249 instructions
+[2020.08.07-14.43.44:036][443]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 323 instructions
+[2020.08.07-14.43.44:037][443]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.08.07-14.43.44:037][443]MaterialEditorStats: Texture samplers: 5/16
+[2020.08.07-14.43.44:037][443]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2020.08.07-14.43.44:037][443]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.07-14.44.07:973][272]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.44.08:000][272]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_1, compiling. 
+[2020.08.07-14.44.08:009][272]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2020.08.07-14.44.08:009][272]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2020.08.07-14.44.08:009][272]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2020.08.07-14.44.08:024][272]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.07-14.44.08:750][347]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 43
+[2020.08.07-14.44.09:129][390]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 42
+[2020.08.07-14.44.09:410][422]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 41
+[2020.08.07-14.44.09:410][422]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2020.08.07-14.44.09:628][447]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2020.08.07-14.44.09:965][486]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2020.08.07-14.44.10:021][492]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2020.08.07-14.44.10:391][535]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2020.08.07-14.44.10:526][551]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2020.08.07-14.44.10:614][561]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2020.08.07-14.44.10:954][601]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2020.08.07-14.44.11:040][611]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2020.08.07-14.44.11:208][630]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2020.08.07-14.44.11:466][659]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.44.11:486][659]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.08.07-14.44.11:500][659]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_1, compiling. 
+[2020.08.07-14.44.11:522][659]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.08.07-14.44.11:695][676]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 50
+[2020.08.07-14.44.11:963][706]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 49
+[2020.08.07-14.44.12:461][761]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 48
+[2020.08.07-14.44.12:632][780]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 47
+[2020.08.07-14.44.12:882][807]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 46
+[2020.08.07-14.44.13:366][859]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 45
+[2020.08.07-14.44.13:401][863]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 44
+[2020.08.07-14.44.13:518][876]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 43
+[2020.08.07-14.44.14:054][938]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 42
+[2020.08.07-14.44.14:080][941]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 41
+[2020.08.07-14.44.14:168][950]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2020.08.07-14.44.14:289][964]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 39
+[2020.08.07-14.44.14:587][999]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2020.08.07-14.44.14:706][ 13]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2020.08.07-14.44.15:120][ 59]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2020.08.07-14.44.15:245][ 73]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2020.08.07-14.44.15:542][106]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2020.08.07-14.44.15:826][139]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2020.08.07-14.44.15:957][154]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2020.08.07-14.44.16:149][176]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2020.08.07-14.44.16:408][206]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2020.08.07-14.44.16:764][245]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.08.07-14.44.16:764][245]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2020.08.07-14.44.17:072][278]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2020.08.07-14.44.17:446][320]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2020.08.07-14.44.17:592][337]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2020.08.07-14.44.17:842][365]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2020.08.07-14.44.18:094][394]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2020.08.07-14.44.18:425][433]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2020.08.07-14.44.18:530][445]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2020.08.07-14.44.19:438][548]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.08.07-14.44.19:784][588]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2020.08.07-14.44.20:043][618]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.08.07-14.44.20:375][657]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2020.08.07-14.44.20:417][662]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2020.08.07-14.44.21:005][730]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.08.07-14.44.21:370][770]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2020.08.07-14.44.22:053][849]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.08.07-14.44.22:053][849]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.08.07-14.44.22:596][906]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.08.07-14.44.23:382][995]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.08.07-14.44.23:675][ 29]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.08.07-14.44.23:717][ 34]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.08.07-14.44.24:400][113]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.08.07-14.44.24:537][129]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2020.08.07-14.44.24:631][140]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2020.08.07-14.44.24:740][151]MaterialEditorStats: Base pass shader: 249 instructions
+[2020.08.07-14.44.24:740][151]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 323 instructions
+[2020.08.07-14.44.24:740][151]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.08.07-14.44.24:740][151]MaterialEditorStats: Texture samplers: 5/16
+[2020.08.07-14.44.24:740][151]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2020.08.07-14.44.24:741][151]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.07-14.44.25:202][199]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.08.07-14.44.25:304][211]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.08.07-14.44.25:377][219]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.08.07-14.44.25:974][287]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.08.07-14.44.30:135][776]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.44.30:161][776]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2020.08.07-14.44.30:161][776]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2020.08.07-14.44.30:161][776]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2020.08.07-14.44.30:169][776]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.08.07-14.44.30:801][846]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2020.08.07-14.44.30:947][863]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2020.08.07-14.44.30:990][868]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2020.08.07-14.44.31:187][890]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2020.08.07-14.44.31:463][922]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2020.08.07-14.44.31:641][943]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2020.08.07-14.44.31:852][963]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2020.08.07-14.44.31:971][977]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2020.08.07-14.44.32:284][ 13]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2020.08.07-14.44.32:533][ 42]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2020.08.07-14.44.32:850][ 78]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.08.07-14.44.32:945][ 89]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2020.08.07-14.44.33:285][129]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2020.08.07-14.44.33:372][136]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2020.08.07-14.44.33:598][162]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2020.08.07-14.44.33:604][163]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2020.08.07-14.44.33:821][188]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2020.08.07-14.44.34:129][223]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2020.08.07-14.44.34:317][245]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2020.08.07-14.44.34:386][253]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.08.07-14.44.34:651][284]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2020.08.07-14.44.34:747][295]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2020.08.07-14.44.35:179][343]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.08.07-14.44.36:246][454]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2020.08.07-14.44.36:713][501]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.08.07-14.44.36:879][519]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2020.08.07-14.44.37:385][572]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.08.07-14.44.37:633][594]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.08.07-14.44.38:435][683]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.08.07-14.44.38:479][688]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.08.07-14.44.39:320][775]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.08.07-14.44.39:380][782]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.08.07-14.44.39:759][820]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.08.07-14.44.40:758][928]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.08.07-14.44.40:928][946]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2020.08.07-14.44.41:185][975]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.08.07-14.44.41:861][ 49]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.08.07-14.44.42:053][ 70]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.08.07-14.44.42:177][ 83]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.08.07-14.44.42:203][ 84]MaterialEditorStats: Base pass shader: 249 instructions
+[2020.08.07-14.44.42:203][ 84]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 323 instructions
+[2020.08.07-14.44.42:203][ 84]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.08.07-14.44.42:203][ 84]MaterialEditorStats: Texture samplers: 5/16
+[2020.08.07-14.44.42:203][ 84]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2020.08.07-14.44.42:203][ 84]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.07-14.44.48:130][765]LogMaterialEditor: Saving and Compiling material Lava
+[2020.08.07-14.44.48:671][765]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.44.48:760][765]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2020.08.07-14.44.48:760][765]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2020.08.07-14.44.48:760][765]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2020.08.07-14.44.48:777][765]LogMaterial: Display: Missing cached shader map for material Lava, compiling. 
+[2020.08.07-14.44.48:859][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.08.07-14.44.48:875][765]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.07-14.44.53:922][765]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 93
+[2020.08.07-14.44.53:922][765]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 92
+[2020.08.07-14.44.53:922][765]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 91
+[2020.08.07-14.44.53:922][765]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 90
+[2020.08.07-14.44.53:922][765]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 89
+[2020.08.07-14.44.53:922][765]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 88
+[2020.08.07-14.44.53:922][765]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 87
+[2020.08.07-14.44.53:922][765]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 86
+[2020.08.07-14.44.53:922][765]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 85
+[2020.08.07-14.44.53:922][765]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 84
+[2020.08.07-14.44.53:922][765]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 83
+[2020.08.07-14.44.53:922][765]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 82
+[2020.08.07-14.44.53:922][765]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 81
+[2020.08.07-14.44.53:922][765]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 80
+[2020.08.07-14.44.53:922][765]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 79
+[2020.08.07-14.44.53:922][765]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 78
+[2020.08.07-14.44.53:922][765]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 77
+[2020.08.07-14.44.53:922][765]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 76
+[2020.08.07-14.44.53:922][765]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 75
+[2020.08.07-14.44.53:922][765]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 74
+[2020.08.07-14.44.53:922][765]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 73
+[2020.08.07-14.44.53:923][765]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 72
+[2020.08.07-14.44.53:923][765]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 71
+[2020.08.07-14.44.53:923][765]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 70
+[2020.08.07-14.44.53:923][765]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 69
+[2020.08.07-14.44.53:923][765]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 68
+[2020.08.07-14.44.53:923][765]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 67
+[2020.08.07-14.44.53:923][765]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 66
+[2020.08.07-14.44.53:923][765]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 65
+[2020.08.07-14.44.53:923][765]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 64
+[2020.08.07-14.44.53:923][765]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 63
+[2020.08.07-14.44.53:923][765]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 62
+[2020.08.07-14.44.53:923][765]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 61
+[2020.08.07-14.44.53:923][765]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 60
+[2020.08.07-14.44.53:923][765]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 59
+[2020.08.07-14.44.53:923][765]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 58
+[2020.08.07-14.44.53:923][765]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 57
+[2020.08.07-14.44.53:923][765]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 56
+[2020.08.07-14.44.53:923][765]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 55
+[2020.08.07-14.44.53:923][765]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 54
+[2020.08.07-14.44.53:923][765]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 44
+[2020.08.07-14.44.53:923][765]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2020.08.07-14.44.53:925][765]TextureStreamingBuild: Display: Compiling optional shaders took 5.064 seconds.
+[2020.08.07-14.44.53:961][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.08.07-14.44.59:950][765]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.08.07-14.44.59:950][765]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.08.07-14.44.59:950][765]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.08.07-14.44.59:950][765]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2020.08.07-14.44.59:950][765]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.08.07-14.44.59:950][765]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.08.07-14.44.59:972][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/4_Lava/Lava" FILE="C:/Users/박정훈/Documents/Unreal-Material/MaterialProject/Content/4_Lava/Lava.uasset" SILENT=true
+[2020.08.07-14.44.59:996][765]LogSavePackage: Moving 'C:/Users/박정훈/Documents/Unreal-Material/MaterialProject/Saved/LavaE171BCAB4F1EF54899230C99B724AB8D.tmp' to 'C:/Users/박정훈/Documents/Unreal-Material/MaterialProject/Content/4_Lava/Lava.uasset'
+[2020.08.07-14.45.00:031][765]AssetCheck: New page: Asset Save: Lava
+[2020.08.07-14.45.00:031][765]LogContentValidation: Display: Material /Game/4_Lava/Lava.Lava 유효성 검사
+[2020.08.07-14.45.00:036][765]MaterialEditorStats: Base pass shader: 249 instructions
+[2020.08.07-14.45.00:036][765]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 323 instructions
+[2020.08.07-14.45.00:036][765]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.08.07-14.45.00:036][765]MaterialEditorStats: Texture samplers: 6/16
+[2020.08.07-14.45.00:036][765]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2020.08.07-14.45.00:036][765]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.07-14.45.01:152][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.08.07-14.45.01:211][890]LogSlate: Window 'MaterialProject - 언리얼 에디터' being destroyed
+[2020.08.07-14.45.01:373][890]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.08.07-14.45.01:373][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.07-14.45.01:397][891]Cmd: QUIT_EDITOR
+[2020.08.07-14.45.01:397][891]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.08.07-14.45.01:405][891]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.08.07-14.45.01:405][891]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.07-14.45.01:441][891]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2020.08.07-14.45.01:450][891]LogExit: Preparing to exit.
+[2020.08.07-14.45.01:842][891]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.08.07-14.45.01:843][891]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.07-14.45.01:843][891]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.08.07-14.45.01:852][891]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.08.07-14.45.01:867][891]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.08.07-14.45.01:870][891]LogExit: Editor shut down
+[2020.08.07-14.45.01:875][891]LogExit: Transaction tracking system shut down
+[2020.08.07-14.45.02:175][891]LogExit: Object subsystem successfully closed.
+[2020.08.07-14.45.02:196][891]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.08.07-14.45.02:212][891]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (696)
+[2020.08.07-14.45.02:212][891]LogModuleManager: Shutting down and abandoning module SceneOutliner (694)
+[2020.08.07-14.45.02:212][891]LogModuleManager: Shutting down and abandoning module AddContentDialog (692)
+[2020.08.07-14.45.02:212][891]LogModuleManager: Shutting down and abandoning module WidgetCarousel (691)
+[2020.08.07-14.45.02:212][891]LogModuleManager: Shutting down and abandoning module EditorWidgets (688)
+[2020.08.07-14.45.02:212][891]LogModuleManager: Shutting down and abandoning module CollectionManager (686)
+[2020.08.07-14.45.02:212][891]LogModuleManager: Shutting down and abandoning module StatsViewer (684)
+[2020.08.07-14.45.02:212][891]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2020.08.07-14.45.02:212][891]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2020.08.07-14.45.02:212][891]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2020.08.07-14.45.02:212][891]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2020.08.07-14.45.02:212][891]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2020.08.07-14.45.02:212][891]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2020.08.07-14.45.02:212][891]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2020.08.07-14.45.02:213][891]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2020.08.07-14.45.02:214][891]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2020.08.07-14.45.02:214][891]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2020.08.07-14.45.02:214][891]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2020.08.07-14.45.02:214][891]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2020.08.07-14.45.02:214][891]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2020.08.07-14.45.02:214][891]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2020.08.07-14.45.02:214][891]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2020.08.07-14.45.02:214][891]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2020.08.07-14.45.02:214][891]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2020.08.07-14.45.04:008][891]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2020.08.07-14.45.04:008][891]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2020.08.07-14.45.04:008][891]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2020.08.07-14.45.04:008][891]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2020.08.07-14.45.04:008][891]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2020.08.07-14.45.04:008][891]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2020.08.07-14.45.04:008][891]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2020.08.07-14.45.04:008][891]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2020.08.07-14.45.04:008][891]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2020.08.07-14.45.04:008][891]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2020.08.07-14.45.04:008][891]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2020.08.07-14.45.04:008][891]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2020.08.07-14.45.04:008][891]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2020.08.07-14.45.04:008][891]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2020.08.07-14.45.04:008][891]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2020.08.07-14.45.04:008][891]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2020.08.07-14.45.04:008][891]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2020.08.07-14.45.04:008][891]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2020.08.07-14.45.04:008][891]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2020.08.07-14.45.04:008][891]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2020.08.07-14.45.04:008][891]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2020.08.07-14.45.04:008][891]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2020.08.07-14.45.04:008][891]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2020.08.07-14.45.04:008][891]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2020.08.07-14.45.04:041][891]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2020.08.07-14.45.04:041][891]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2020.08.07-14.45.04:041][891]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2020.08.07-14.45.04:041][891]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2020.08.07-14.45.04:041][891]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2020.08.07-14.45.04:041][891]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2020.08.07-14.45.04:041][891]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2020.08.07-14.45.04:041][891]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2020.08.07-14.45.04:041][891]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2020.08.07-14.45.04:041][891]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2020.08.07-14.45.04:041][891]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2020.08.07-14.45.04:041][891]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2020.08.07-14.45.04:041][891]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2020.08.07-14.45.04:041][891]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2020.08.07-14.45.04:041][891]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2020.08.07-14.45.04:041][891]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2020.08.07-14.45.04:041][891]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2020.08.07-14.45.04:041][891]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2020.08.07-14.45.04:042][891]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2020.08.07-14.45.04:042][891]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2020.08.07-14.45.04:042][891]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2020.08.07-14.45.04:042][891]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2020.08.07-14.45.04:042][891]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2020.08.07-14.45.04:042][891]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2020.08.07-14.45.04:042][891]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2020.08.07-14.45.04:042][891]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2020.08.07-14.45.04:042][891]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2020.08.07-14.45.04:042][891]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2020.08.07-14.45.04:042][891]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2020.08.07-14.45.04:042][891]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2020.08.07-14.45.04:042][891]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2020.08.07-14.45.04:042][891]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2020.08.07-14.45.04:042][891]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2020.08.07-14.45.04:042][891]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2020.08.07-14.45.04:043][891]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2020.08.07-14.45.04:043][891]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2020.08.07-14.45.04:043][891]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2020.08.07-14.45.04:051][891]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2020.08.07-14.45.04:215][891]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2020.08.07-14.45.04:216][891]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2020.08.07-14.45.04:217][891]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2020.08.07-14.45.04:217][891]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2020.08.07-14.45.04:217][891]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2020.08.07-14.45.04:217][891]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2020.08.07-14.45.04:217][891]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2020.08.07-14.45.04:217][891]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2020.08.07-14.45.04:217][891]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2020.08.07-14.45.04:217][891]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2020.08.07-14.45.04:217][891]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2020.08.07-14.45.04:217][891]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2020.08.07-14.45.04:217][891]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2020.08.07-14.45.04:217][891]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2020.08.07-14.45.04:217][891]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.08.07-14.45.04:217][891]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.08.07-14.45.04:318][891]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.08.07-14.45.04:418][891]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.08.07-14.45.04:418][891]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.08.07-14.45.04:418][891]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.08.07-14.45.04:418][891]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.08.07-14.45.04:418][891]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.08.07-14.45.04:418][891]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.08.07-14.45.04:418][891]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.08.07-14.45.04:418][891]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.08.07-14.45.04:418][891]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.08.07-14.45.04:418][891]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.08.07-14.45.04:418][891]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.08.07-14.45.04:418][891]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.08.07-14.45.04:418][891]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.08.07-14.45.04:418][891]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.08.07-14.45.04:418][891]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.08.07-14.45.04:418][891]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.08.07-14.45.04:418][891]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.08.07-14.45.04:418][891]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.08.07-14.45.04:418][891]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.08.07-14.45.04:418][891]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.08.07-14.45.04:419][891]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.08.07-14.45.04:419][891]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.08.07-14.45.04:419][891]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.08.07-14.45.04:419][891]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.08.07-14.45.04:419][891]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.08.07-14.45.04:420][891]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.08.07-14.45.04:420][891]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.08.07-14.45.04:420][891]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.08.07-14.45.04:420][891]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.08.07-14.45.04:420][891]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.08.07-14.45.04:420][891]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.08.07-14.45.04:420][891]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.08.07-14.45.04:420][891]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.08.07-14.45.04:420][891]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.08.07-14.45.04:420][891]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.08.07-14.45.04:420][891]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.08.07-14.45.04:420][891]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.08.07-14.45.04:420][891]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.08.07-14.45.04:420][891]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.08.07-14.45.04:420][891]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.08.07-14.45.04:421][891]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.08.07-14.45.04:421][891]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.08.07-14.45.04:421][891]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.08.07-14.45.04:421][891]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.08.07-14.45.04:421][891]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.08.07-14.45.04:421][891]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.08.07-14.45.04:421][891]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.08.07-14.45.04:421][891]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.08.07-14.45.04:421][891]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.08.07-14.45.04:421][891]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.08.07-14.45.04:421][891]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.08.07-14.45.04:421][891]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.08.07-14.45.04:421][891]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.08.07-14.45.04:421][891]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.08.07-14.45.04:421][891]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.08.07-14.45.04:421][891]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.08.07-14.45.04:421][891]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.08.07-14.45.04:421][891]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.08.07-14.45.04:421][891]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.08.07-14.45.04:421][891]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.08.07-14.45.04:421][891]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.08.07-14.45.04:421][891]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.08.07-14.45.04:421][891]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.08.07-14.45.04:422][891]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.08.07-14.45.04:422][891]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.08.07-14.45.04:422][891]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.08.07-14.45.04:422][891]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.08.07-14.45.04:422][891]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.08.07-14.45.04:422][891]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.08.07-14.45.04:422][891]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.08.07-14.45.04:422][891]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.08.07-14.45.04:422][891]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.08.07-14.45.04:422][891]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.08.07-14.45.04:422][891]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.08.07-14.45.04:423][891]LogDerivedDataCache: Shutdown
+[2020.08.07-14.45.04:423][891]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.08.07-14.45.04:423][891]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.08.07-14.45.04:423][891]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.08.07-14.45.04:423][891]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.08.07-14.45.04:423][891]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.08.07-14.45.04:423][891]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.08.07-14.45.04:423][891]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.08.07-14.45.04:423][891]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.08.07-14.45.04:423][891]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.08.07-14.45.04:423][891]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.08.07-14.45.04:423][891]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.08.07-14.45.04:423][891]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.08.07-14.45.04:423][891]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.08.07-14.45.04:423][891]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.08.07-14.45.04:423][891]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.08.07-14.45.04:423][891]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.08.07-14.45.04:423][891]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.08.07-14.45.04:423][891]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.08.07-14.45.04:423][891]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.08.07-14.45.04:423][891]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.08.07-14.45.04:423][891]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.08.07-14.45.04:423][891]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.08.07-14.45.04:424][891]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.08.07-14.45.04:425][891]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.08.07-14.45.04:425][891]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.08.07-14.45.04:425][891]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.08.07-14.45.04:425][891]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.08.07-14.45.04:425][891]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.08.07-14.45.04:425][891]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.08.07-14.45.04:425][891]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.08.07-14.45.04:425][891]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.08.07-14.45.04:425][891]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.08.07-14.45.04:430][891]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.08.07-14.45.04:430][891]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.08.07-14.45.04:430][891]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.08.07-14.45.04:430][891]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.08.07-14.45.04:430][891]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.08.07-14.45.04:430][891]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.08.07-14.45.04:430][891]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.08.07-14.45.04:430][891]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.08.07-14.45.04:430][891]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.08.07-14.45.04:430][891]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.08.07-14.45.04:430][891]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.08.07-14.45.04:430][891]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.08.07-14.45.04:430][891]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.08.07-14.45.04:430][891]LogHMD: Freeing OpenVRDLLHandle.
+[2020.08.07-14.45.04:430][891]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.08.07-14.45.04:430][891]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.08.07-14.45.04:430][891]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.08.07-14.45.04:430][891]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.08.07-14.45.04:430][891]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.08.07-14.45.04:432][891]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.08.07-14.45.04:432][891]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.08.07-14.45.04:459][891]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.08.07-14.45.04:459][891]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.08.07-14.45.04:459][891]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94628324-4829-364C-C6F4-11AFC130CA14%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=96130bd4463deb4e9c642f9447d39137%7Ccdf7f62014ba4e6db99b8f24bbf7d1bc%7C8e05145d-7556-406c-9c6d-b3b749f2a66f&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.08.07-14.45.04:469][891]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.08.07-14.45.04:470][891]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.08.07-14.45.04:472][891]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.08.07-14.45.04:474][891]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.08.07-14.45.04:474][891]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.08.07-14.45.04:474][891]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.08.07-14.45.04:474][891]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.08.07-14.45.04:474][891]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.08.07-14.45.04:474][891]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.08.07-14.45.04:474][891]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.08.07-14.45.04:474][891]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.08.07-14.45.04:474][891]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.08.07-14.45.04:474][891]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.08.07-14.45.04:475][891]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.08.07-14.45.04:475][891]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.08.07-14.45.04:475][891]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.08.07-14.45.04:475][891]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.08.07-14.45.04:475][891]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.08.07-14.45.04:478][891]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.08.07-14.45.04:478][891]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.08.07-14.45.04:478][891]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.08.07-14.45.04:478][891]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.08.07-14.45.04:478][891]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.08.07-14.45.04:478][891]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.08.07-14.45.04:478][891]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.08.07-14.45.04:478][891]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.08.07-14.45.04:478][891]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.08.07-14.45.04:478][891]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.08.07-14.45.04:478][891]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.08.07-14.45.04:479][891]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.08.07-14.45.04:479][891]LogD3D11RHI: Shutdown
+[2020.08.07-14.45.04:479][891]LogD3D11RHI: CleanupD3DDevice
+[2020.08.07-14.45.04:486][891]LogExit: Exiting.
+[2020.08.07-14.45.04:491][891]Log file closed, 08/07/20 22:45:04
